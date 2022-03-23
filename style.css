@@ -1,0 +1,281 @@
+* {
+    box-sizing: border-box;
+    font-weight: absolute;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.logo {
+    margin-left: 150px;
+    margin-right: 250px;
+    font-size: 30px;
+    color: rgb(21, 70, 231);
+}
+header .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+header nav {
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 20px;
+    padding-right: 20px;
+} 
+
+header a {
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.ef {
+
+    width: 620px;
+    height: 724px;
+    margin-left: 801px;
+    margin-top: -170px;
+    position: absolute;
+}
+
+.titulo {
+    font-size: 50px;
+}
+
+.descripcion {
+    text-align: left;
+    font-size: 20x;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
+.picono {
+    margin-left: 90px;
+    margin-top: -38px;
+}
+
+.p2icono {
+    margin-left: 340px;
+    margin-top: -38px;
+}
+
+.icono2 {
+    width: 30px;
+    height: 30px;
+    margin-top: -43px;
+    margin-left: 300px;
+    border-radius: 5px;
+}
+
+.p3icono {
+    margin-left: 90px;
+    margin-top: -38px;
+}
+.icono3 {
+    width: 30px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.flotante {
+    width: 850px;
+    height: 110px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 200px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.801)
+}
+
+.lflotante {
+    margin-left: 33px;
+    margin-top: -28px;
+}
+.mflotante {
+    font-size: 20px;
+}
+
+.nflotante {
+    font-size: 20px;
+    margin-left: 196px;
+    margin-top: -28px;
+
+}
+
+.rflotante {
+    margin-left: 153px;
+    margin-top: 10px;
+}
+
+.pflotante{
+    margin-left: 366px;
+    margin-top: -24px;
+
+}
+
+.sflotante {
+    margin-left: 373px;
+    margin-top: 10px;
+
+}
+
+.ic2 {
+    width: 30px;
+        height: 30px;
+        margin-top: -83px;
+        margin-left: 142px;
+        border-radius: 5px;
+}
+
+.ic3 {
+    width: 30px;
+        height: 30px;
+        margin-top: -78px;
+        margin-left: 329px;
+        border-radius: 5px;
+}
+
+.enviar {
+    margin-left: 665px;
+    margin-top: -20px;
+}
+
+.vacuna {
+    margin-left: -19px;
+    margin-top: 93px;
+    width: 941px;
+    height: 89px;
+}
+
+.pv {
+    margin-left: -141px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.tx {
+    margin-left: -141px;
+    margin-top: 50px;
+    
+}
+
+.flotante2 {
+    width: 264px;
+    height: 299px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: -64px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.801)
+}
+ .t1 {
+    margin-left: 26px;
+    margin-top: 74px;
+    font-size: 30px;
+ }
+
+ .d1 {
+    margin-left: 26px;
+    margin-top: 74px;
+ }
+
+ .flotante3 {
+    width: 264px;
+    height: 299px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 266px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.801)
+}
+
+.t2{
+    margin-left: 25px;
+    margin-top: 87px;
+    font-size: 30px;
+}
+
+.d2{
+    margin-left: 21px;
+    margin-top: 50px;
+   
+}
+
+.flotante4 {
+    width: 264px;
+    height: 299px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 595px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.801)
+}
+
+.t3{
+    margin-left: 25px;
+    margin-top: 87px;
+    font-size: 30px;
+}
+
+.d3{
+    margin-left: 21px;
+    margin-top: 50px;
+   
+}
+
+.flotante5 {
+    width: 264px;
+    height: 299px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 916px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.801)
+}
+
+.t4{
+    margin-left: 25px;
+    margin-top: 87px;
+    font-size: 30px;
+}
+
+.d4{
+    margin-left: 21px;
+    margin-top: 50px;
+   
+}
+.person {
+    width: 620px;
+    height: 352px;
+    margin-left: -289px;
+    margin-top: 555px;
+    position: absolute;
+}
+
+.t5 {
+    margin-left: 25px;
+    margin-top: 87px;
+    font-size: 30px;
+}
+
+.d5 {
+    margin-left: 21px;
+    margin-top: 87px;
+  
+}
